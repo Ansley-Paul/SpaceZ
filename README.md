@@ -1,2 +1,2 @@
 # SpaceZ
-SpaceZ -Programmable Rocket Simulations with AI integration.
+SpaceZ -Fun Programmable Rocket Simulations for Model Rockets
