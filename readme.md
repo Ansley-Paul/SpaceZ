@@ -6,5 +6,5 @@ pip install fastapi uvicorn
 npm install web-vitals
 
 To work:
-Run server.py in backend\pyFiles\server.py
-npm start cd to frontend\nodeJsFiles\frontend
+Run server.py in backend\pyFiles\server.py__
+"npm start" in cmd terminal and cd to frontend\nodeJsFiles\frontend
